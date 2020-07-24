@@ -1,0 +1,32 @@
+[
+	{
+		"serverName": "Hive",
+		"address": "54.39.75.136",
+		"port": 19132
+	},
+	{
+		"name": "Mineplex",
+		"address": "108.178.12.125",
+		"port": 19132
+	},
+	{
+		"name": "Cubecraft",
+		"address": "213.32.11.233",
+		"port": 19132
+	},
+	{
+		"name": "Lifeboat",
+		"address": "63.143.40.66",
+		"port": 19132
+	},
+	{
+		"name": "Mineville",
+		"address": "52.234.131.7",
+		"port": 19132
+	},
+	{
+		"name": "Galaxite",
+		"address": "51.89.152.241",
+		"port": 19132
+	}
+]
